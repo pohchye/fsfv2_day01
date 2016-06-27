@@ -1,0 +1,4 @@
+# my list of files to ignore
+node_modules/*
+.idea/*
+public/image/*
